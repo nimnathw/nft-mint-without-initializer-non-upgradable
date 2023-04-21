@@ -1,0 +1,19 @@
+{
+  "name": "Light#1",
+  "description": "Light is an NFT collection for testing.",
+  "image": "https://ipfs.io/ipfs/QmctjBpd3s4ix8AHvTa32GQFcdeKeJi17RMEP2CdkKbCKK/light_1.png",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "black"
+    },
+    {
+      "trait_type": "color",
+      "value": "blue"
+    },
+    {
+      "trait_type": "shape",
+      "value": "star"
+    }
+  ]
+}
